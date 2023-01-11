@@ -4,3 +4,5 @@
 
 layout: home
 ---
+Q. "What happens if I add content here?"  
+A. "Oh, I see..."
