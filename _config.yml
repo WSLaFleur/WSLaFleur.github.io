@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: WesMad
+email: wslafleur@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "WSLaFleur.github.io" # the subpath of your site, e.g. /blog
+  Welcome to my website. If you have an interest in keeping up
+  with what I'm working on, you should consider adding this site
+  to your RSS feed.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: WSLaFleur
+github_username:  WSLaFleur
 
 # Build settings
 theme: minima # https://youtu.be/NoRS2D-cyko?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB
@@ -42,6 +42,7 @@ defaults:
       type: "post"
     values:
       layout: "post"
+      author: "Westly LaFleur"
       title:
 #      permalink: ":/title" # I desperately want this line of code to work, but for now that's wishful thinking I guess.
 

@@ -1,0 +1,61 @@
+{
+  "filePreviewOnHover": false,
+  "markSans": true,
+  "makeMenuPlaceholder": true,
+  "mobileMakeBar": true,
+  "inlineStyler": true,
+  "inlineStylerColors": false,
+  "editorFlow": true,
+  "editorFlowStyle": "seamless",
+  "spacesEnabled": true,
+  "spacesPerformance": false,
+  "spacesStickers": true,
+  "spacesDisablePatch": false,
+  "sidebarTabs": false,
+  "deleteFileOption": "trash",
+  "folderRank": {
+    "node": "",
+    "children": [
+      {
+        "node": "_drafts",
+        "children": [
+          {
+            "node": "Draft-template.md",
+            "children": [],
+            "isFolder": false
+          },
+          {
+            "node": "Untitled.canvas",
+            "children": [],
+            "isFolder": false
+          }
+        ],
+        "isFolder": true
+      },
+      {
+        "node": "2023-01-10-welcome-to-jekyll.md",
+        "children": [],
+        "isFolder": false
+      },
+      {
+        "node": "2023-01-11-My-first-post.md",
+        "children": [],
+        "isFolder": false
+      }
+    ],
+    "isFolder": true
+  },
+  "openFolders": [
+    "//META",
+    "//Neaia & Damien (NaNoWriMo 2020)",
+    "//Characters",
+    "//Book Reviews",
+    "//Game Write-ups",
+    "//_drafts"
+  ],
+  "fileIcons": [],
+  "spaces": [],
+  "vaultCollapsed": false,
+  "menuTriggerChar": "/",
+  "emojiTriggerChar": ":"
+}

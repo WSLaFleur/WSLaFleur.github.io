@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "04bb0f73255f7178",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ce3a705edcba3ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d26393f0ca06897",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6787fae614dfee2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac16805e332c660d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37f54dd8d9313af9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e5a138c6cd106fbf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7743f86a0cdfb1c4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "77744547dd91c24e",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 421.5
+  },
+  "right": {
+    "id": "8f060c6aa6c81053",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3fb1373824f87e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7aa2ae959495026",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_drafts/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c4a44852c31353e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_drafts/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98bc629d704badb9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c26fdd70b3ece394",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_drafts/Untitled.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-comments:Show Comments Panel": false
+    }
+  },
+  "active": "7d26393f0ca06897",
+  "lastOpenFiles": [
+    "_drafts/Untitled.md",
+    "Untitled.md",
+    "2023-01-11-My-first-post.md",
+    "2023-01-10-welcome-to-jekyll.md",
+    "_drafts/Untitled.canvas",
+    "_drafts/Draft-template.md"
+  ]
+}
