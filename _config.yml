@@ -35,8 +35,8 @@ plugins:
   - jekyll-feed
 
 #frontmatter defaults
- defaults:
- -
+defaults:
+  -
     scope:
       path:
       type: "posts"
