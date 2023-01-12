@@ -35,15 +35,15 @@ plugins:
   - jekyll-feed
 
 #frontmatter defaults
- defaults:
- -
+defaults:
+  -
     scope:
-      path:
+      path: ""
       type: "posts"
     values:
       layout: "post"
       author: "Westly LaFleur"
-#      permalink: ":/title" # I desperately want this line of code to work, but for now that's wishful thinking I guess.
+      permalink: "/:title"
 
 
 # Exclude from processing.
