@@ -38,7 +38,7 @@ plugins:
 defaults:
   -
     scope:
-      path:
+      path: ""
       type: "posts"
     values:
       layout: "post"
