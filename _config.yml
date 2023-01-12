@@ -35,6 +35,7 @@ plugins:
   - jekyll-feed
 
 #frontmatter defaults
+<<<<<<< HEAD
  defaults:
  -
     scope:
@@ -43,6 +44,16 @@ plugins:
     values:
       layout: "post"
       author: "Westly LaFleur"
+=======
+ defaults: -
+     scope:
+       path:
+       type: "posts"
+     values:
+       layout: "post"
+       author: "Westly LaFleur"
+       title:
+>>>>>>> 30dade42d43522b72c4631249fcb8c2115fb078f
 #      permalink: ":/title" # I desperately want this line of code to work, but for now that's wishful thinking I guess.
 
 
