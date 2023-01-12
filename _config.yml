@@ -39,9 +39,9 @@ defaults:
   -
     scope:
       path:
-      type: "post"
+      type: "posts"
     values:
-      layout: "post"
+      layout: "posts"
       author: "Westly LaFleur"
       title:
 #      permalink: ":/title" # I desperately want this line of code to work, but for now that's wishful thinking I guess.
