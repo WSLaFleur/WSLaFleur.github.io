@@ -18,6 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+include: # this is very space sensitive, fucking it up will break the entire site lmao
+ - _pages
+
 title: WesMad
 email: wslafleur@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"

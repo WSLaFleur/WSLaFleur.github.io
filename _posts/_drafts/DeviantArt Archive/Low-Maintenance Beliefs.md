@@ -1,0 +1,11 @@
+---
+# Put frontmatter here
+Date: Jan 23, 2019
+---
+I'm a bit stingy when it comes to beliefs. No Tooth-fairy, no Easter Bunny, no Santa Clause, but also no God; no psychics, no horoscopes, no paranormal, supernatural or extraterrestrial activity. I believe in objective reality precisely because it requires so little be granted on the part of the believer. The scientific method evidently works. The same method that supports evolution as an explanation for life invented the automobile that gets you to work every morning, the percolator that prepares your coffee and every other electronic device populating your homestead.  
+
+I steer clear of conspiracy theories, alternative medicine and any form of superstition. I find such beliefs suspicious; they mingle poorly with my hunger for hard evidence and sound reasoning. Nonetheless, I find my life dotted with believers; immediate family, close friends, valued acquaintances. I try not to meddle too much in the beliefs of others, nor to push my narrow-minded  secular materialism onto them. I've had to develop a certain degree of sophistication and tact over the years, or risk endangering all my relationships.  
+
+I will admit, I used to resent the notion of 'developing tact' and regarded it as wasteful compromise. Nowadays, looking out across an ocean of people arguing over the internet, I can see that I was wrong. Most of my generation use the internet to reinforce their own beliefs or worse to bury others under a mountain of hastily-searched contradictions; they wouldn't dream of using Google to fact check themselves, or do serious research on an opposing view. A little sophistication is what's required.  
+
+Beliefs are important. It's important to preserve our ability to discuss our beliefs. I may be the Ebeneezer Scrooge of believers, stowing away my belief in low-risk, low-reward investments, but my beliefs are not off-limits. I guess what I'm saying is, let's keep the discussion alive. Let's stay skeptical, but let's not undermine and demean each other.

@@ -25,17 +25,208 @@
             "isFolder": false
           },
           {
-            "node": "Untitled.canvas",
+            "node": "Canvas-file.canvas",
             "children": [],
             "isFolder": false
+          },
+          {
+            "node": "DeviantArt Archive",
+            "children": [
+              {
+                "node": "Let's Talk About Eclipse.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Long Story Short.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "You Are Who You Know.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Have Patience.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "How to Support My Work (or anyone else's).md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Admittedly, Moving Sucks Shit.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "The Importance of Stretching.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "TypeRacer, Chess, etc..md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Low-Maintenance Beliefs.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Diagnosis.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Here From the Couch.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "How Much Practice Do I Need cont..md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Artists - How Much Practice Do I Need.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Artistic Goals.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Back to Basics.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Shut Your Mouth.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Alone Time.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Highrisers Kickstarter.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Worst Fears.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Thousand Dragons.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Minimum Wage Artists.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Breathe.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Marketing, Otherwise Known as Selling Out.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "The Unseen.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "DeviantArt is Good.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Paint Over the Bullshit.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "While You're Young.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Quiet.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "The Year of Beatings.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Make Hard Friends.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Proficiency.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Not Getting the Job.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "I'm Not Talented.md",
+                "children": [],
+                "isFolder": false
+              },
+              {
+                "node": "Creed.md",
+                "children": [],
+                "isFolder": false
+              }
+            ],
+            "isFolder": true
           }
         ],
         "isFolder": true
       },
       {
+        "node": "2023-01-10-welcome-to-jekyll.md",
+        "children": [],
+        "isFolder": false
+      },
+      {
         "node": "2023-01-11-harnessing-shower-thoughts.md",
         "children": [],
         "isFolder": false
+      },
+      {
+        "node": "Game Write-ups",
+        "children": [],
+        "isFolder": true
+      },
+      {
+        "node": "Book Reviews",
+        "children": [],
+        "isFolder": true
       }
     ],
     "isFolder": true
@@ -44,8 +235,6 @@
     "//META",
     "//Neaia & Damien (NaNoWriMo 2020)",
     "//Characters",
-    "//Book Reviews",
-    "//Game Write-ups",
     "//_drafts"
   ],
   "fileIcons": [],

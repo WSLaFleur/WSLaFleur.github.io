@@ -1,0 +1,7 @@
+---
+# Put frontmatter here
+Date: Dec 15, 2013
+---
+Learn art while you're young, trust me. I mean while you're still in school, preferably grade school. It's just easier to learn without all the pressures of an adult life; having to pay the bills puts you in a tough position. Will you pick up a part-time job? It'll cut time out of your practice, and probably more than you think. Maybe, you think, if I simply copy a popular style then I'll get more work. I'll just take on lots of little jobs; it's like getting paid to practice, right? Wrong, trust me, commissions are no substitute for REAL study, especially when you're getting paid $2.00/hr and you're hauling a dozen-or-more jobs in queue.
+
+I'm not saying it's ever "too late" to pick up a pencil and learn to draw like the pros, but there's no opportunity like doodling while your teacher drones on in the background, providing you with white noise and the excuse of boredom as impetus to practice. It's the perfect head space, like meditation. So learn while you're young, without all of the distractions that come with being an adult; and if you're not young, then share this message with a young artist, because you probably know what I'm talking about.

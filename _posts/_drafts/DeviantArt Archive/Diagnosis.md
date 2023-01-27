@@ -1,0 +1,21 @@
+---
+# Put frontmatter here
+Date: Oct 25, 2018
+---
+I saw a specialist; I went through a highly unpleasant diagnostic procedure. The professional medical diagnosis corroborated my own suspicions: I have Ulcerative Colitis.
+
+It's a 'stomach' thing. More precisely, it's a gastrointestinal disease. Because it's a 'stomach' thing, people seem to have trouble grasping the severity of the disease; especially where it's quite variable and mine seems relatively severe. I've described it as 'being allergic to food', yes — all food. Eat something — anything — at the wrong time, in the wrong quantity, too quickly, and suddenly you're slogging through pain for the rest of the day. My relationship with the restroom oscillates between much too frequent and not nearly frequent enough, but always stays distressingly urgent and lengthy, thereby meddling with any attempts to stick to a schedule, develop a routine or organize my life. It's infuriating and, during flare ups, it's agonizing.
+
+Currently, according to mainstream medical science, Ulcerative Colitis is 'incurable' and treatment focuses on managing symptoms. While 'in remission', people tend to lead relatively normal, uninterrupted lives. However, 'flare ups' can (and frequently do) last multiple months at a shot. As of this writing, my disease has been 'active' for the past four months. Things have not been great. Ulcerative Colitis has been linked with a number of psychological problems, including depression and anxiety (I can't imagine why) probably due to underlying gut dysbiosis. Should the disease escalate, my only option becomes surgically removing my large intestine.
+
+It's not all bad. I've been suffering with these symptoms for most of my adult life. The only difference is that now it's less mysterious; also I can stop suspecting myself of hypochondria. I'm also feeling a little vindicated — after all, I was right about my condition all along. As a consequence of receiving a professional diagnosis, the medical community will now take me seriously, meaning targeted, prescription anti-inflammatory drugs during flare ups.
+
+On the other hand, I hate feeling like a victim. Right now I'm wrestling with the concept of 'incurable disease'. On a fundamental level, I reject the classification of 'Ulcerative Colitis' as a singular disease; it's more like a collection of symptoms, and insofar as mainstream medical science is concerned, we don't know anything about the underlying cause of these symptoms.
+
+Part of me wants to believe there's a 'cure'. There's an argument to be made for gut dysbiosis being the major underlying cause but, unfortunately, treatment is complicated (we don't understand the gut very well). Finally, another part of me knows that before anything else can happen, I've got to deal with the reality of my symptoms. Getting into remission is the first priority.
+
+The worst of it has been feeling helpless, useless and stuck. Please don't take this the wrong way, but most people with this condition are either frail, anemic creatures or overweight, borderline diabetics. It's a chicken and egg situation. I have a lot of sympathy for my fellow disease sufferers, but I don't fit into either of these categories. Aside from my gastrointestinal maladies, I have always been apparently healthy, fit and generally satisfied with my life; it's one of the major reasons why I've been met with so much skepticism whenever I run my thoughts by medical professionals.
+
+I'm searching for a way to wrap up, because that's pretty much all my thoughts on the current situation. Originally, I'd planned to segue into another topic — being out of commission for so long has given me time to think; I did a lot of introspection over the past few months and I want to share the results of my 'soul searching'. I've done a lot of thinking about my future and my relationship to art, but these thoughts deserve their own journal. I'd rather they not be a reaction to my diagnosis.
+
+So, if you enjoy my journals, you have that to look forward to. I hope you're doing well.

@@ -1,0 +1,21 @@
+---
+# Put frontmatter here
+Date: Feb 3, 2018
+---
+Dear reader,  
+
+I just moved from one apartment in Phoenix, Arizona to another apartment in Santee, California. I've only been here fifteen days and it already feels more like home than anywhere I've lived since high school.  
+
+The whole process of moving felt like an out-of-body experience. We had the whole placed packed up and ready-to-move in one thirty-six hour long caffeine-fueled, sleep deprived marathon. We loaded our stuff into a 15' U-Haul and drove six straight hours across state lines to our destination. We unpacked, returned the U-Haul and made a last-minute trip to buy some furniture. The entire thing made me feel absurdly grown-up. It all went so smoothly that I've still got the feeling of waiting for something to go wrong.  
+
+[![Img 20180125 074734800 by WestlyLaFleur](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e5874664-5d6f-43d9-a92e-a5f05fb8f443/dc20pme-a7e8f767-5819-4561-b988-8a695a1fcd6b.jpg/v1/fit/w_150,h_150,q_70,strp/img_20180125_074734800_by_westlylafleur_dc20pme-150.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc3IiwicGF0aCI6IlwvZlwvZTU4NzQ2NjQtNWQ2Zi00M2Q5LWE5MmUtYTVmMDVmYjhmNDQzXC9kYzIwcG1lLWE3ZThmNzY3LTU4MTktNDU2MS1iOTg4LThhNjk1YTFmY2Q2Yi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.-fvehOmP3o_Uh0wkR-VrSxk6C_Y5fHBzY5fAQKD6690)](https://sta.sh/01d2y394ivbk "Img 20180125 074734800 by WestlyLaFleur, Feb 3, 2018")[![Img 20180125 140549761 Hdr by WestlyLaFleur](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e5874664-5d6f-43d9-a92e-a5f05fb8f443/dc20pm9-8b92a8e9-2df5-438f-8608-01f56d166ddd.jpg/v1/fit/w_150,h_150,q_70,strp/img_20180125_140549761_hdr_by_westlylafleur_dc20pm9-150.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc3IiwicGF0aCI6IlwvZlwvZTU4NzQ2NjQtNWQ2Zi00M2Q5LWE5MmUtYTVmMDVmYjhmNDQzXC9kYzIwcG05LThiOTJhOGU5LTJkZjUtNDM4Zi04NjA4LTAxZjU2ZDE2NmRkZC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.tTXHKyLXkZB-PV8wfSo-ZmbA4vVV_B1O3cIJQJUXaLI)](https://sta.sh/023etcwpu48k "Img 20180125 140549761 Hdr by WestlyLaFleur, Feb 3, 2018")  
+
+I feel like I should apologize. I haven't written in a while and I know there are some of you out there who really appreciate my journals. It's not for a lack of want. I've got a small, steadily growing list of subjects I'd really like to write about, but these journals don't come easily to me. I have a tendency to agonize over every little turn of phrase, which means it can take hours to produce a few short paragraphs and often-as-not I scrap them anyway.  
+
+That being said, I am not an art-producing automaton and, if nothing else, I would like to share my thoughts as a means of seeming less like a two-dimensional cardboard cutout to my online acquaintances. I haven't become less opinionated over time, but my reservations about _sharing_ those opinions have gotten stronger. The dangers of misrepresenting myself seem very real, and could translate to hours of wasted time.  
+
+I've resolved to write more often, but that's not going to make it any easier. My desire to write is really a desire to explore my own thoughts. Most of the time, what you're reading is the raw process of breaking down big thoughts into manageable conclusions. It's not meant to be preachy or prescriptive, but that doesn't stop people jumping down my throat if they disagree with me.  
+
+Personally, I'm tired of politics. I'm sick of every issue being presented as two axiomatically opposed sides. It's beyond frustrating, and I've been letting that frustration paralyze me. I don't feel like getting labeled or dragged into arguments. Unfortunately, if it's a choice between that and keeping my mouth shut forever, I just can't endure the silence.  
+
+Raise a glass to 2018 - it's going to be a hell of a year.

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3ce3a705edcba3ab",
+        "id": "8e56280d0f6b12f3",
         "type": "tabs",
         "children": [
           {
-            "id": "7d26393f0ca06897",
+            "id": "a264139a4e7ba7f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/Untitled.md",
+                "file": "2023-01-10-welcome-to-jekyll.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/Untitled.md",
+                "file": "2023-01-10-welcome-to-jekyll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/Untitled.md",
+                "file": "2023-01-10-welcome-to-jekyll.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/Untitled.md"
+                "file": "2023-01-10-welcome-to-jekyll.md"
               }
             }
           }
@@ -157,13 +157,17 @@
       "obsidian-comments:Show Comments Panel": false
     }
   },
-  "active": "7d26393f0ca06897",
+  "active": "a264139a4e7ba7f1",
   "lastOpenFiles": [
+    "2023-01-11-harnessing-shower-thoughts.md",
+    "2023-01-10-welcome-to-jekyll.md",
+    "_drafts/Canvas-file.canvas",
+    "_drafts/Draft-template.md",
     "_drafts/Untitled.md",
     "Untitled.md",
-    "2023-01-11-My-first-post.md",
-    "2023-01-10-welcome-to-jekyll.md",
-    "_drafts/Untitled.canvas",
-    "_drafts/Draft-template.md"
+    "_drafts/DeviantArt Archive/Let's Talk About Eclipse.md",
+    "_drafts/DeviantArt Archive/Long Story Short.md",
+    "_drafts/DeviantArt Archive/You Are Who You Know.md",
+    "_drafts/DeviantArt Archive/Have Patience.md"
   ]
 }

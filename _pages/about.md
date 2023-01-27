@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+order: 1
 ---
 
 Hi, I'm Wes and - unless something has gone very wrong - you probably haven't heard of me. I spend my time [making art](https://www.deviantart.com/westlylafleur) and [music](https://soundcloud.com/westlylafleur), [reading](https://www.goodreads.com/user/show/69898047-westly-scott-lafleur), writing and learning new skills. I also play a lot of video-games, which I occasionally [stream to Twitch](https://www.twitch.tv/wslafleur).
